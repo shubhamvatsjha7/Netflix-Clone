@@ -295,8 +295,8 @@ footer .credit {
   }
 
   .main input {
-    padding: 9px 35px 9px 10px;
-    font-size: 15px;
+    padding: 10px 13px 10px 9px;
+    font-size: 14px;
   }
 
   section.first > div :nth-child(1) {
@@ -355,4 +355,5 @@ footer .questions {
     max-width: 85vw;
   }
 }
+
 
